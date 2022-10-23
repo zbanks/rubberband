@@ -1,6 +1,8 @@
 README for rubberband Python3 Module
 ====================================
 
+**Note**: This is a mirror of https://pypi.org/project/rubberband/ with some patches applied for compatibility with Poetry & newer versions of numpy.
+
 Introduction
 ------------
 

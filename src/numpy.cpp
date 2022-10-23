@@ -6,6 +6,7 @@
  */
 
 #include "numpy.hpp"
+#include <algorithm>
 #include <stdexcept>
 #include <map>
 #include <iostream>
